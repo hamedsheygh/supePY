@@ -7,7 +7,7 @@
 https://discord.gg/yMugmymnYz
 
 6.if you want to ask for to edit source code or create another software or game based on his software you must join there and ask for his permission.
-7.This software is developed in 8 days so its NOT completed yet.
+7.This software is developed in 20 days so its completed BUT we may try to add more features.
 
 2023-2024
 
