@@ -591,7 +591,6 @@ def delete_selected_entity(entity):
     destroy(entity)
     destroy_property_ui()
     destroy_sound_window()
-    
     print(f"Deleted {entity.model.name}")
 
 
